@@ -1,6 +1,6 @@
 <?php
 
-namespace Wakeup\Admin\Http\Controllers;
+namespace LaravelWakeUp\Admin\Http\Controllers;
 
 use Illuminate\Routing\Controller as BaseController;
 

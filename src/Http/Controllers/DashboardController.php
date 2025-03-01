@@ -1,8 +1,8 @@
 <?php
 
-namespace Wakeup\Admin\Http\Controllers;
+namespace LaravelWakeUp\Admin\Http\Controllers;
 
-use Wakeup\Admin\Http\Controllers\Controller;
+use LaravelWakeUp\Admin\Http\Controllers\Controller;
 
 class DashboardController extends Controller
 {

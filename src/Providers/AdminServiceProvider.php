@@ -1,6 +1,6 @@
 <?php
 
-namespace Wakeup\Admin\Providers;
+namespace LaravelWakeUp\Admin\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
